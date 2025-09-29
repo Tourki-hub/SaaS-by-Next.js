@@ -22,6 +22,11 @@ export default function Home() {
       >
         Get Started →
       </Link>
+      <div className="mt-12">
+        <p className="text-sm text-zinc-600">
+          Need help? Check our documentation.
+        </p>
+      </div>
     </MaxWidthWrapper>
   );
 }
