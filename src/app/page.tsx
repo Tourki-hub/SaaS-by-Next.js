@@ -13,7 +13,7 @@ export default function Home() {
       </h1>
       <p className="mt-4 max-w-prose text-zinc-700 sm:text-lg text-center">
         Our Hala AI is a powerful document analysis tool that allows you to
-        interact with your documents effortlessly.dan da dan
+        interact with your documents effortlessly.
       </p>
       <Link
         href="/dashboard"
