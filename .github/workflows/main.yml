@@ -12,4 +12,10 @@ jobs:
 
     steps:
       - name: print welcome message
-        run: echo "welcome to SaaS"
+        run: echo "Welcome to SaaS"
+      - name: checkout repo
+        uses: actions/checkout@v5.0.0
+
+      - name: list repo files
+        run: ls -la
+      
