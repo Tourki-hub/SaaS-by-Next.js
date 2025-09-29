@@ -9,11 +9,11 @@ export default function Home() {
       </div>
       <h1 className="max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl text-center">
         Chat with your <span className="text-blue-600">documents</span> in
-        seconds
+        seconds lslslsl
       </h1>
       <p className="mt-4 max-w-prose text-zinc-700 sm:text-lg text-center">
         Our Hala AI is a powerful document analysis tool that allows you to
-        interact with your documents effortlessly.
+        interact with your documents effortlessly.dan da dan
       </p>
       <Link
         href="/dashboard"
