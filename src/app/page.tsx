@@ -33,7 +33,7 @@ export default function Home() {
         >
           View Documentation
         </Link>
-        console.log("Hello, world!");
+        console.log("Hello, eworld!");
       </div>
     </MaxWidthWrapper>
   );
