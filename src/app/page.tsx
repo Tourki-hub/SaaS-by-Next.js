@@ -26,6 +26,13 @@ export default function Home() {
         <p className="text-sm text-zinc-600">
           Need help? Check our documentation.
         </p>
+        <Link
+          href="/docs"
+          target="_blank"
+          className="inline-flex items-center justify-center px-4 py-2 mt-2 text-sm text-blue-600 bg-blue-100 hover:bg-blue-200 rounded-md"
+        >
+          View Documentation
+        </Link>
       </div>
     </MaxWidthWrapper>
   );
